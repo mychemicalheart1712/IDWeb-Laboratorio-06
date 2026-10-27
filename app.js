@@ -8,6 +8,7 @@ const app = express();
 app.use(express.json());
 app.use(logger);
 app.use('/api/cursos', cursoRoutes);
+app.get('/api/error', () => { throw new Error('Error de prueba'); });
 app.use(errorHandler);
 
 app.listen(3000, () => console.log('API Express en puerto 3000'));
