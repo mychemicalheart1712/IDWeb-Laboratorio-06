@@ -88,5 +88,5 @@ La evidencia de que el error 500 funciona está en la carpeta `evidencias/`.
  
 - Persona 1: Ortiz Saavedra, Sarah Megan
 - Persona 2: Paredes Gonzales, Melanie Grace
-- Persona 3: Gomez Huamana, Melany Yartiza
+- Persona 3: Gomez Huaman, Melany Yartiza
 - Persona 4: Morales Yapu, Hillary Fernanda
